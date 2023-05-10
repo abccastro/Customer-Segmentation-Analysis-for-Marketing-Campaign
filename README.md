@@ -1,1 +1,1 @@
-# Customer-Segmentation-Analysis-for-Marketing-Campaign
+# Customer Segmentation Analysis for Marketing Campaign
